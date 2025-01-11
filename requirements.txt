@@ -4,11 +4,9 @@ scikit-learn
 xgboost
 seaborn
 setuptools
-typing
-matplotlib.pyplot
-warnings
+matplotlib
 datetime
-logging
-pickle
-
+pymysql
+mysql-connector-python
+python-dotenv
 #-e.
